@@ -1,8 +1,8 @@
 package main
 
 import (
-	"example.com/restapi/db"
-	"example.com/restapi/routes"
+	"github.com/Activesamu3l/Eventify/db"
+	"github.com/Activesamu3l/Eventify/routes"
 	"github.com/gin-gonic/gin"
 )
 

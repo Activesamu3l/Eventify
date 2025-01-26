@@ -3,8 +3,8 @@ package models
 import (
 	"errors"
 
-	"example.com/restapi/db"
-	"example.com/restapi/utils"
+	"github.com/Activesamu3l/Eventify/db"
+	"github.com/Activesamu3l/Eventify/utils"
 )
 
 type User struct {

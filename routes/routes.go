@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"example.com/restapi/middlewares"
+	"github.com/Activesamu3l/Eventify/middlewares"
 	"github.com/gin-gonic/gin"
 )
 

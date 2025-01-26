@@ -1,4 +1,4 @@
-module example.com/restapi
+module github.com/Activesamu3l/Eventify
 
 go 1.23.0
 

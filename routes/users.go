@@ -3,8 +3,8 @@ package routes
 import (
 	"net/http"
 
-	"example.com/restapi/models"
-	"example.com/restapi/utils"
+	"github.com/Activesamu3l/Eventify/models"
+	"github.com/Activesamu3l/Eventify/utils"
 	"github.com/gin-gonic/gin"
 )
 

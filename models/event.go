@@ -3,7 +3,7 @@ package models
 import (
 	"time"
 
-	"example.com/restapi/db"
+	"github.com/Activesamu3l/Eventify/db"
 )
 
 type Event struct {

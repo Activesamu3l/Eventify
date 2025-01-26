@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"example.com/restapi/models"
+	"github.com/Activesamu3l/Eventify/models"
 	"github.com/gin-gonic/gin"
 )
 

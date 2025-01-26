@@ -3,7 +3,7 @@ package middlewares
 import (
 	"net/http"
 
-	"example.com/restapi/utils"
+	"github.com/Activesamu3l/Eventify/utils"
 	"github.com/gin-gonic/gin"
 )
 
